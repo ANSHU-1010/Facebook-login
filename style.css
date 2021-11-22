@@ -41,16 +41,16 @@ footer {
     text-align: center;
 }
   
-.col-logo image {
-    max-width: 400px;
+.col-logo img {
+    max-width: 300px;
 
 }
 
 .col-logo h2 {
     font: 26px;
-    font-weight: 400;
-    padding: 0 30px;
-    line-height: 42px;
+    font-weight: 300;
+    padding: 0 20px;
+    line-height: 22px;
 }
 
 .col-form .form-container {
